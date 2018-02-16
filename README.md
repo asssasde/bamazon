@@ -40,12 +40,7 @@ Amazon-like storefront using MySQL and Node.js. The app takes in orders from cus
 1. Here is what the working app looks like:
 
     ![Customer View Screen Shot](/assets/images/CustomerViewScreenShot01.jpg)
-    
-2. Here is a quick video of the working app:
-
-    ![Customer View Video](/assets/images/CustomerViewVideo01.gif)
-
-
+  
 
 ### Manager View
 
@@ -69,11 +64,7 @@ Amazon-like storefront using MySQL and Node.js. The app takes in orders from cus
 
 * If a manager selects `Add New Product`, app allows the manager to add a completely new product to the store.
 
-#### Screenshots & Video of Working App for Manager View
 
-1. Here is a quick video of the working app:
-
-![Customer View Video](/assets/images/ManagerViewVideo01.gif)
 
 
 
