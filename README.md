@@ -1,19 +1,10 @@
 # bamazon
 Amazon-like storefront using MySQL and Node.js.
 
-Trilogy Education Services Full-Stack Web Developer Program
-
-University of Miami Cohort - 201710FSF3
-
-Week 12 Homework Assignment: Node.js & MySQL
-
-Create an Amazon-like storefront using MySQL and Node.js.
-
 ## Overview
 
 Amazon-like storefront using MySQL and Node.js. The app takes in orders from customers and depletes stock from the store's inventory.  This application uses the MySQL and Inquirer npm packages.
 
-## Instructions
 
 ### Customer View
 
@@ -63,8 +54,6 @@ Amazon-like storefront using MySQL and Node.js. The app takes in orders from cus
 * If a manager selects `Add to Inventory`, app displays a prompt that will let the manager "add more" of any item currently in the store.
 
 * If a manager selects `Add New Product`, app allows the manager to add a completely new product to the store.
-
-
 
 
 
